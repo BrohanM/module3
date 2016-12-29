@@ -1,0 +1,76 @@
+body {
+	background-color: #ffc67e;
+}
+
+#pgtit {
+	font-family:'Exo', sans-serif;
+	font-size: 3em;
+}
+
+#header-nav {
+	background-color: #f4a739;
+	border: 0;
+	border-radius: 0;
+}
+
+#header-nav h1 {
+	font-family: 'Exo', sans-serif;
+	color: #fff;
+	font-size: 1.8em;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 0px;
+	margin-left: 0px;
+	line-height: 0.5;
+}
+
+.navbar-brand a:hover {
+	text-decoration: none;
+}
+
+.navbar-header {
+	border: 0;
+}
+
+#nav-list a:hover {
+	background-color: #fff;
+}
+
+#collapsable-nav {
+	text-align: center;
+	font-size: 1.8em;
+	border: none;
+	font-family: 'Exo';
+}
+
+button.navbar-toggle {
+	background-color: #ffc67e;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #333;
+    border-radius: 3px;
+}
+
+#Chicken , #Beef , #Sushi {
+	font-family: 'Questrial';
+	font-size: 0.8em;
+	text-align: center;
+	border: 1px solid black;
+	padding: 20px 20px 10px 20px;
+	margin: 20px auto;
+	background-color: #fff;
+}
+
+#main-content h3 {
+	font-size: 3em;
+	font-family: 'Exo';
+	padding-bottom: 20px;
+	margin: auto;
+}
+
+#main-content p {
+	font-size: 1.5em;
+}
+
+
